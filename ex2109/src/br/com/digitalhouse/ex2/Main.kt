@@ -5,6 +5,8 @@ fun main() {
     animais?.add("Pato")
     animais?.add("Cachorro")
     animais?.add("Gato")
+    animais?.add("Macaco")
+
     //miguel parabens
     val miguel = 10
 
