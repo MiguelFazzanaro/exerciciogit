@@ -5,6 +5,7 @@ fun main() {
     animais?.add("Pato")
     animais?.add("Cachorro")
     animais?.add("Gato")
+    animais?.add("Macaco")
 
     println("Animal da posicao 2: ${animais?.get(2)}")
 }

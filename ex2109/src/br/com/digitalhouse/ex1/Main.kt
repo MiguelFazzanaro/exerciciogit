@@ -2,7 +2,7 @@ package br.com.digitalhouse.ex1
 
 fun main() {
     try {
-        var animais = listOf("Pato", "Cachorro", "Gato")
+        var animais = listOf("Pato", "Cachorro", "Gato", "Macaco")
         println("conteudo da posicao 3: ${animais.get(3)}")
     }
     catch (erro: Exception) {
